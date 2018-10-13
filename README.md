@@ -1,27 +1,3 @@
 # apod
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-# apod-vue-webapp
+This is a VUE simple web app which grabs the Nasa APOD api and retrieves and displays data. 
